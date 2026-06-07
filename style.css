@@ -110,10 +110,12 @@ h1, h2, h3, h4, h5, h6 {
   background-color: var(--grey-700);
 }
 
-.main__link:hover {
+.main__link:hover,
+.main__link:focus-visible {
   background: var(--green);
   color: var(--grey-900);
   cursor: pointer;
+  outline: none;
 }
 
 /* FOOTER */
@@ -129,6 +131,8 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 
-.attribution a:hover {
+.attribution a:hover,
+.attribution a:focus-visible {
   text-decoration: underline;
+  outline: none;
 }

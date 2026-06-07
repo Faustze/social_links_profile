@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Faustze/social_links_profile)
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [GitHub](https://github.com/Faustze/social_links_profile)
+- Live Site URL: [GitHub Pages](https://faustze.github.io/social_links_profile/)
 
 ## My process
 
